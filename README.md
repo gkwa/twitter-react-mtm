@@ -71,4 +71,4 @@ twitter app
 Book code from React Essentials
 -------------------------------
 
-<https://github.com/TaylorMonacelli/react-essentials>
+<https://github.com/fedosejev/react-essentials.git>
