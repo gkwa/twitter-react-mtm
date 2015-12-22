@@ -1,3 +1,6 @@
 [submodule "react-essentials"]
 	path = react-essentials
 	url = https://github.com/fedosejev/react-essentials
+[submodule "snapkite-engine"]
+	path = snapkite-engine
+	url = https://github.com/Snapkite/snapkite-engine.git
