@@ -3,6 +3,7 @@
 **Topic branches**
 
 - [book: react essentials](#book-react-essentials)
+  - [Add React Chrome extension](#add-react-chrome-extension)
   - [React in Chrome Dev tools helps debug](#react-in-chrome-dev-tools-helps-debug)
   - [Clone filters](#clone-filters)
   - [snapkite engine](#snapkite-engine)
@@ -15,6 +16,11 @@
 
 book: react essentials
 ======================
+
+Add React Chrome extension
+--------------------------
+
+<https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi>
 
 React in Chrome Dev tools helps debug
 -------------------------------------

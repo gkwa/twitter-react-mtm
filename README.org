@@ -1,4 +1,8 @@
 * book: react essentials
+** Add React Chrome extension
+
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
 ** React in Chrome Dev tools helps debug
 
 React in Chrome Dev tools helps debug
